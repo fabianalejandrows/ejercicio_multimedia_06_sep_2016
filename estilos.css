@@ -1,0 +1,16 @@
+.enlace1
+{
+background: #FFCC00;
+color:#000000;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+}
+
+
+.enlace1:hover
+{
+background: #6633CC;
+color:#FFF;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+}
